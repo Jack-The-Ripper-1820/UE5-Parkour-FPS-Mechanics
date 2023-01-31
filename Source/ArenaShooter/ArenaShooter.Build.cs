@@ -8,9 +8,9 @@ public class ArenaShooter : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "GameplayTasks"});
-
-		PrivateDependencyModuleNames.AddRange(new string[] { "OnlineSubsystem" , "OnlineSubsystemSteam"});
+		//PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "GameplayTasks"});
+        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AIModule", "GameplayTasks" });
+        PrivateDependencyModuleNames.AddRange(new string[] { "OnlineSubsystem" , "OnlineSubsystemSteam"});
 
 		// Uncomment if you are using Slate UI
 		PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore",  });
