@@ -12,11 +12,11 @@ Current Elements - Weapon Pickup/Switch, Basic AI
 
 Current Parkour Elements - Wall Run, Slide, Mantle, Semi-Glide, Horizontal Wall-Eject
 
-Goals - Replication, Multiplayer Sessions, Replicated Animations, Rigging
+To Implement - Replication, Multiplayer Sessions, Replicated Animations, Rigging
 
 ## Some Screenshots
 
-[!Screenshot1](Screenshots/Screenshot1.png)
+[!Screenshot1](https://github.com/Jack-The-Ripper-1820/Arena-Shooter/blob/af0ce0a8df52b783dc2f5d0a13e11941203f4315/Screenshots/Screenshot1.png)
 [!Screenshot2](Screenshots/Screenshot2.png)
 [!Screenshot3](Screenshots/Screenshot3.png)
 [!Screenshot4](Screenshots/Screenshot4.png)
