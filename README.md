@@ -16,9 +16,9 @@ To Implement - Replication, Multiplayer Sessions, Replicated Animations, Rigging
 
 ## Some Screenshots
 
-[!Screenshot1](https://github.com/Jack-The-Ripper-1820/Arena-Shooter/blob/af0ce0a8df52b783dc2f5d0a13e11941203f4315/Screenshots/Screenshot1.png)
-[!Screenshot2](Screenshots/Screenshot2.png)
-[!Screenshot3](Screenshots/Screenshot3.png)
-[!Screenshot4](Screenshots/Screenshot4.png)
-[!Screenshot5](Screenshots/Screenshot5.png)
-[!Screenshot6](Screenshots/Screenshot6.png)
+![](Screenshots/Screenshot1.png)
+![](Screenshots/Screenshot2.png)
+![](Screenshots/Screenshot3.png)
+![](Screenshots/Screenshot4.png)
+![](Screenshots/Screenshot5.png)
+![](Screenshots/Screenshot6.png)
