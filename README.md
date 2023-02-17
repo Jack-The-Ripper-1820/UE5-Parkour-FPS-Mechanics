@@ -4,7 +4,7 @@ This is a hobby project, I am currently learning and trying to add replication t
 
 Developed with Unreal Engine 5
 
-Mechanics Demo build - https://drive.google.com/file/d/1wNxRNFj0Txa7Thp6Rdc3aYfxWb6GtT9s/view?usp=sharing
+Mechanics Demo build - https://drive.google.com/file/d/1LswuWgdGZ50LSTxWuwX-ymKNfwNYBtGJ/view?usp=sharing
 
 Demo Video - https://youtu.be/CACz-1ufmZ0
 
