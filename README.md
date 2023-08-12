@@ -1,6 +1,6 @@
 # ParkourFPS Hobby Project
 
-This is a hobby project, I am currently learning and trying to add replication to support multiplayer and more innovative mechanics, but for now this what I have got, thanks for checking it out.
+This is a hobby project, I am currently learning and trying to add replication to support multiplayer and more innovative mechanics, thanks for checking it out.
 
 Developed with Unreal Engine 5
 
